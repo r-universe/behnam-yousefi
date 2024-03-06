@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ConsensusClustering"]
+	path = ConsensusClustering
+	url = https://github.com/cran/ConsensusClustering
 [submodule "PLEXI"]
 	path = PLEXI
 	url = https://github.com/cran/PLEXI
